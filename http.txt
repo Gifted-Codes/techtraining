@@ -1,0 +1,1 @@
+HTTP (Hypertext Transfer Protocol): A fundamental protocol of the World Wide Web, governing the transfer of hypertext (text with links) and facilitating the communication between web browsers and servers.
